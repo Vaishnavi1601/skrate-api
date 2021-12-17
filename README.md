@@ -1,12 +1,13 @@
 ### Getting started with Skrate Assignment
 
-- Fontend Link : https://skrate-api.web.app/add-user
+- Frontend Link : https://skrate-api.web.app/add-user
 - Backend Link : https://skrate--api.herokuapp.com
 
 ## Git Branches :
 
-- frontend code => main branch
-- backend code  => backend branch
+- Frontend code => main branch
+- Backend code  => backend branch
+
 ## Backend Apis as follows :
 
 - To fetch the all users
@@ -41,11 +42,23 @@
 2. bulma : css library, used for styling
 3. axios : to do api request within our appication.
 
+##  Local Setup 
+
+- Backend 
+  -  Go to the root folder
+  - > npm install
+  - > npm start
+- Frontend
+  - Go to the root folder
+  - Go to `config.js` and select the dev route
+  - > npm install
+  - > npm start
+
 ## Whats new to come v2 ?
 1. More suttle UI.
 2. More features such as clipboard functionilty. 
 3. Much better and targeted toast.
-5. Descrptive documentation. 
+5. Descriptive documentation. 
 4. Much more, will be updated soon.
 
 
